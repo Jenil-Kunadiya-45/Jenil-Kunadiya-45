@@ -21,9 +21,10 @@
 <h4 align="center"> 🌐 Connect with Me: </h4>
 
 <p align="center">
-  ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-
-  <a href="https://linkedin.com/in/jenil kunadiya" target="_blank" style="text-decoration:none;">
+  <a href="https://instagram.com/jenil_kunadiya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://linkedin.com/in/jenil-kunadiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
