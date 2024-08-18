@@ -1,9 +1,10 @@
 <h2 align="center">Hi there! I'm <span style="color:#6c63ff;">Jenil Kunadiya</span> 👋</h2>
 <p align="center">A passionate Software Developer with a keen eye for crafting clean and efficient code. My expertise lies in <strong>React</strong> and <strong>TypeScript</strong>, where I blend aesthetics and functionality using <strong>Bootstrap</strong> for styling.</p>
-🔥 Committed to writing concise, maintainable, and error-free code.
-🚀 Focused on performance optimization and implementing advanced development techniques.
-💡 Constantly learning and sharing best practices in modern web development.
-
+<div align="center" text-decoration="none">
+<span>🔥 Committed to writing concise, maintainable, and error-free code.</span></br>
+<span>🚀 Focused on performance optimization and implementing advanced development techniques.</span></br>
+<span>💡 Constantly learning and sharing best practices in modern web development.</span>
+</div>
 </br>
 <h4 align="center"> 🌐 Connect with Me: </h3>
 <p align="center">
