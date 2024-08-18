@@ -74,7 +74,7 @@
 <br>
 
 <p align="center">
-	[<img src="./assets/banner.svg" width="800px">](https://pagespeed-insights.herokuapp.com?url=https://jenil-kunadiya-portfolio.onrender.com/)
+[<img src="./assets/banner.svg" width="800px">](https://pagespeed-insights.herokuapp.com?url=https://jenil-kunadiya-portfolio.onrender.com)
 </p>
 
 <br>
