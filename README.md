@@ -74,7 +74,7 @@
 <br>
 
 <p align="center">
-[[<img src="./assets/banner.svg" width="800px">](https://pagespeed-insights.herokuapp.com?url=https://jenil-kunadiya-portfolio.onrender.com)]
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.sv alt="contribution"/>
 </p>
 
 <br>
