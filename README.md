@@ -88,8 +88,6 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenil-Kunadiya-45&theme=transparent" alt="GitHub Profile Summary"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jenil-Kunadiya-45&theme=transparent" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jenil-Kunadiya-45&theme=transparent" alt="GitHub Stats"/>
 </p>
 
 <br>
