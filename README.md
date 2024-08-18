@@ -74,6 +74,12 @@
 <br>
 
 <p align="center">
+	<img src="./assets/banner.svg" width="800px">
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jenil-Kunadiya-45&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
