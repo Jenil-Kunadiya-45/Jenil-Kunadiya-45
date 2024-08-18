@@ -82,6 +82,12 @@
 <br>
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" alt="GitHub Contribution Grid Snake">
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Jenil-Kunadiya-45&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
