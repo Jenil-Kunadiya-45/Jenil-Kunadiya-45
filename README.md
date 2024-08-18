@@ -4,8 +4,8 @@ Name: Jenil Kunadiya<br>Profession: Software Developer<br>Specialization: Expert
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/jenil kunadiya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="jenil kunadiya" height="30" width="  60" /></a>
-<a href="https://instagram.com/jenil_kunadiya" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="jenil_kunadiya" height="30" width="60" /></a>
+<a href="https://linkedin.com/in/jenil kunadiya" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="jenil kunadiya" height="30" width="  100" /></a>
+<a href="https://instagram.com/jenil_kunadiya" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="jenil_kunadiya" height="30" width="100" /></a>
 </p>
 
 # 💻 Tech Stack:
