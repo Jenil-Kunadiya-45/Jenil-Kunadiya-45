@@ -76,7 +76,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jenil-Kunadiya-45&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenil-Kunadiya-45&theme=transparent&hide_border=false" alt="GitHub Streak Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jenil-Kunadiya-45&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages"/>
 </p>
 
 <br>
