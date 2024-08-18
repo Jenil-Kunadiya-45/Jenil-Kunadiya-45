@@ -18,7 +18,7 @@
 
 <br>
 
-<h4 align="center"> 🌐 Connect with Me: </h4>
+<h3 align="center"> 🌐 Connect with Me: </h3>
 
 <p align="center">
   <a href="https://instagram.com/jenil_kunadiya" target="_blank">
