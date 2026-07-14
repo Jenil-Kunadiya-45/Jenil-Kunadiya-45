@@ -74,25 +74,6 @@
 </p>
 
 <br>
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" alt="GitHub Contribution Grid Snake">
-</p>
-
-<br>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jenil-Kunadiya-45&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jenil-Kunadiya-45&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jenil-Kunadiya-45&theme=transparent&hide_border=false" alt="GitHub Streak Stats"/>
-</p>
-
 <br>
 
 <p align="center">
