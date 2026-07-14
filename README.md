@@ -74,14 +74,3 @@
 </p>
 
 <br>
-<br>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jenil-Kunadiya-45&theme=transparent" alt="GitHub Profile Summary"/>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Jenil-Kunadiya-45&icon=0&color=0" alt="Profile Visit Count"/>
-</p>
