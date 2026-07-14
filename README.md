@@ -76,12 +76,6 @@
 <br>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake">
-</p>
-
-<br>
-
-<p align="center">
 <img src="https://raw.githubusercontent.com/ankurparihar/readme-pagespeed-insights/master/assets/banner.svg" alt="GitHub Contribution Grid Snake">
 </p>
 
